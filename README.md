@@ -33,6 +33,9 @@ Passionate about building scalable systems and solving complex problems. I thriv
 ## 💪 Gym & Code Philosophy
 > *"Just like progressive overload in the gym, I believe in constantly challenging myself with harder problems and more complex systems."*
 
+## 📊 GitHub Activity
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhaytomar2004&theme=github-compact)
+
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-tomar-b093b3251/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhayalpha21@gmail.com)
@@ -41,6 +44,7 @@ Passionate about building scalable systems and solving complex problems. I thriv
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhaytomar2004&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhaytomar2004&layout=compact&theme=radical)
 
 <!---
 Abhaytomar2004/Abhaytomar2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
