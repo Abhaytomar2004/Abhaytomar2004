@@ -5,8 +5,8 @@
 Passionate about building scalable systems and solving complex problems. I thrive at the intersection of software engineering and algorithmic thinking.
 
 ## 🏆 Competitive Programming Achievements
-- **CodeChef**: 3★ (Max Rating: 1637) - [AbhayTomar](https://www.codechef.com/users/abhaytomar2004)
-- **LeetCode**: Top 1% - [Arnold_21](https://leetcode.com/u/arnold_21/)
+- **CodeChef**: 3★ (Max Rating: 1637) - [AbhayTomar](https://www.codechef.com/users/arnold_21)
+- **LeetCode**: Top 1% - [arnold_21](https://leetcode.com/u/arnold_21/)
 - **Codeforces**: Specialist (Max Rating: 1432) - [Arnold_21](https://codeforces.com/profile/Arnold_21)
 
 ## 💼 Professional Experience
